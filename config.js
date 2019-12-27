@@ -1,4 +1,4 @@
-//你的阿里云地址最后面跟上一个/   在你当前小程序的后台的uploadFile 合法域名也要配上这个域名
+//OSS地址
 let fileHost = '';
 
 let config = {
